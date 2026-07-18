@@ -19,6 +19,7 @@ $ whoami
 > Backend Developer
 > Learning AI/ML and System Design
 > Building scalable applications
+```
 
 ## 📊 GitHub Stats
 
