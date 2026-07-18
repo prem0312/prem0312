@@ -15,10 +15,4 @@ $ whoami
 > Backend Developer
 > Learning AI/ML and System Design
 > Building scalable applications
-```
 
-### Backend Developer | AI/ML Aspirant
-
-Welcome to my GitHub profile! 🚀
-
-> Building scalable backend systems and exploring AI-powered applications.
