@@ -20,3 +20,9 @@ $ whoami
 > Learning AI/ML and System Design
 > Building scalable applications
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prem0312&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem0312&layout=compact&theme=github_dark&hide_border=true" />
+</p>
