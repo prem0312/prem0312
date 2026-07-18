@@ -26,3 +26,9 @@ $ whoami
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prem0312&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem0312&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prem0312&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
