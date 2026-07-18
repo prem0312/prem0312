@@ -16,3 +16,6 @@ $ whoami
 > Learning AI/ML and System Design
 > Building scalable applications
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=prem0312&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
