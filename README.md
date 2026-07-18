@@ -45,3 +45,11 @@ $ whoami
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prem0312&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prem0312&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+## 🎯 Current Focus
+```
+- 🔭 Building backend applications with **FastAPI** and **Node.js**
+- 🌱 Learning **Machine Learning**, **System Design**, and **Docker**
+- 💡 Exploring **AI-powered applications**
+- 🚀 Preparing for **Backend Developer** and **Software Engineer** roles
+```
