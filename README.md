@@ -53,3 +53,9 @@ $ whoami
 - 💡 Exploring **AI-powered applications**
 - 🚀 Preparing for **Backend Developer** and **Software Engineer** roles
 ```
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/prem0312/prem0312/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
