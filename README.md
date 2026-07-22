@@ -59,3 +59,11 @@ $ whoami
 <p align="center">
   <img src="https://github.com/prem0312/prem0312/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+|----------|------------|-------------|
+| 🌐 **Portfolio** | React, Tailwind CSS | Personal developer portfolio showcasing projects and skills. |
+| 🔗 **APIHub** | FastAPI, PostgreSQL, JWT | API management platform with authentication and developer-friendly REST APIs. |
+| ⚙️ **StackFlow** | FastAPI, Docker, GitHub Actions | CI/CD collaboration platform for managing and automating development workflows. |
