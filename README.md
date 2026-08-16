@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/prem0312">
-    <img src="./assets/banner1.png" alt="Profile Banner"/>
+    <img src="./assets/banner 1.png" alt="Profile Banner"/>
   </a>
 </p>
 
@@ -34,17 +34,25 @@
 $ whoami
 
 > Final-year Information Science Engineering student
-> Backend Developer
-> Learning AI/ML and System Design
-> Building scalable applications
+> Java Backend Developer
+> Spring Boot • Microservices • REST APIs • PostgreSQL • Redis • Kafka
+> Building scalable backend systems and learning system design
 ```
 
-## 📊 GitHub Stats
+## ## 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prem0312&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prem0312&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/prem0312">
+    <img src="https://img.shields.io/github/followers/prem0312?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/prem0312?tab=repositories">
+    <img src="https://img.shields.io/github/stars/prem0312?affiliations=OWNER&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/prem0312/CommerceCore">
+    <img src="https://img.shields.io/github/stars/prem0312/CommerceCore?style=for-the-badge&logo=github" />
+  </a>
 </p>
+
 
 ## 🎯 Current Focus
 ```
