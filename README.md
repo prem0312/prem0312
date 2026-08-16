@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/prem0312">
-    <img src="./assets/banner.png" alt="Prem Banner"/>
+    <img src="./assets/banner1.png" alt="Profile Banner"/>
   </a>
 </p>
 
