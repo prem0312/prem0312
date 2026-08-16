@@ -4,7 +4,7 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+PREM;Backend+Developer;AI%2FML+Engineer+in+Progress;Building+Scalable+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=750&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Prem;Java+Backend+Developer;Spring+Boot+%7C+Microservices;Building+Scalable+Backend+Systems)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/prem03">
