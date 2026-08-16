@@ -39,7 +39,7 @@ $ whoami
 > Building scalable backend systems and learning system design
 ```
 
-## ## 📊 GitHub
+## 📊 GitHub
 
 <p align="center">
   <a href="https://github.com/prem0312">
@@ -52,7 +52,7 @@ $ whoami
     <img src="https://img.shields.io/github/stars/prem0312/CommerceCore?style=for-the-badge&logo=github" />
   </a>
 </p>
-
+```
 
 ## 🎯 Current Focus
 
