@@ -55,13 +55,12 @@ $ whoami
 
 
 ## 🎯 Current Focus
-```
-- 🔭 Building backend applications with **FastAPI** and **Node.js**
-- 🌱 Learning **Machine Learning**, **System Design**, and **Docker**
-- 💡 Exploring **AI-powered applications**
-- 🚀 Preparing for **Backend Developer** and **Software Engineer** roles
-```
 
+```text
+- 🔭 Building scalable backend systems with **Java**, **Spring Boot**, and **Microservices**
+- 🌱 Deepening my knowledge of **System Design**, **Distributed Systems**, and **Database Architecture**
+- 💡 Working with **Kafka**, **Redis**, **PostgreSQL**, **Docker**, and event-driven architectures
+- 🚀 Preparing for **Java Backend Developer** and **Software Engineer** roles
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -72,6 +71,5 @@ $ whoami
 
 | Project | Tech Stack | Description |
 |----------|------------|-------------|
-| 🌐 **Portfolio** | React, Tailwind CSS | Personal developer portfolio showcasing projects and skills. |
-| 🔗 **APIHub** | FastAPI, PostgreSQL, JWT | API management platform with authentication and developer-friendly REST APIs. |
-| ⚙️ **StackFlow** | FastAPI, Docker, GitHub Actions | CI/CD collaboration platform for managing and automating development workflows. |
+| 🛒 **CommerceCore** | Java, Spring Boot, Microservices, PostgreSQL, Redis, Kafka, Docker | E-commerce backend and order processing platform featuring JWT authentication, RBAC, distributed idempotency, transactional outbox, optimistic locking, and event-driven workflows. |
+| 🌐 **Developer Portfolio** | HTML, CSS, JavaScript | Personal developer portfolio showcasing projects, technical skills, and backend engineering work. |
