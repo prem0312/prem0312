@@ -62,11 +62,12 @@ $ whoami
 - 💡 Working with **Kafka**, **Redis**, **PostgreSQL**, **Docker**, and event-driven architectures
 - 🚀 Preparing for **Java Backend Developer** and **Software Engineer** roles
 ## 🐍 Contribution Snake
+```
 
 <p align="center">
   <img src="https://github.com/prem0312/prem0312/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
+```
 ## 🚀 Featured Projects
 
 | Project | Tech Stack | Description |
