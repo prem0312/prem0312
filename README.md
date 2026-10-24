@@ -56,6 +56,7 @@ $ whoami
 
 ## 🎯 Current Focus
 
+```text
 - 🔭 Building projects in backend development and data analytics
 - 🌱 Learning system design, database architecture, and analytical problem-solving
 - 💡 Exploring scalable systems, data-driven applications, and business insights
