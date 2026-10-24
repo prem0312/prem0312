@@ -33,10 +33,10 @@
 ```bash
 $ whoami
 
-> Final-year Information Science Engineering student
-> Java Backend Developer
-> Spring Boot • Microservices • REST APIs • PostgreSQL • Redis • Kafka
-> Building scalable backend systems and learning system design
+> Final-year Information Science and Engineering student
+> Interested in Backend Development and Data Analytics
+> Exploring scalable systems, databases, and data-driven solutions
+> Building projects that combine engineering and analytical thinking
 ```
 
 ## 📊 GitHub
@@ -56,11 +56,10 @@ $ whoami
 
 ## 🎯 Current Focus
 
-```text
-- 🔭 Building scalable backend systems with **Java**, **Spring Boot**, and **Microservices**
-- 🌱 Deepening my knowledge of **System Design**, **Distributed Systems**, and **Database Architecture**
-- 💡 Working with **Kafka**, **Redis**, **PostgreSQL**, **Docker**, and event-driven architectures
-- 🚀 Preparing for **Java Backend Developer** and **Software Engineer** roles
+- 🔭 Building projects in backend development and data analytics
+- 🌱 Learning system design, database architecture, and analytical problem-solving
+- 💡 Exploring scalable systems, data-driven applications, and business insights
+- 🚀 Aspiring to contribute to backend engineering and data analyst roles
 
 ```
 ## 🐍 Contribution Snake
