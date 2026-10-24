@@ -74,5 +74,7 @@ $ whoami
 
 | Project | Tech Stack | Description |
 |----------|------------|-------------|
-| 🛒 **CommerceCore** | Java, Spring Boot, Microservices, PostgreSQL, Redis, Kafka, Docker | E-commerce backend and order processing platform featuring JWT authentication, RBAC, distributed idempotency, transactional outbox, optimistic locking, and event-driven workflows. |
-| 🌐 **Developer Portfolio** | HTML, CSS, JavaScript | Personal developer portfolio showcasing projects, technical skills, and backend engineering work. |
+| 📊 [**Superstore Analytics**](https://github.com/prem0312/Superstore-Analytics) | Python, Pandas, Matplotlib, Seaborn, Scikit-learn | Analyzed 9,994 retail transactions to explore sales trends, category-level profitability, and sales forecasting using data visualization and regression models. |
+| 💬 [**Customer Sentiment Analyzer**](https://github.com/prem0312/Customer-Sentiment-Analyzer) | Python, Pandas, NLTK, VADER, NLP | Analyzed 22,641 customer reviews to classify sentiment and visualize feedback themes, helping identify potential opportunities to improve customer satisfaction. |
+| 🛒 [**CommerceCore**](https://github.com/prem0312/CommerceCore) | Java, Spring Boot, Microservices, PostgreSQL, Redis, Kafka, Docker | Built an e-commerce backend with authentication, inventory management, distributed idempotency, transaction consistency, and event-driven workflows. |
+| 🌐 [**Developer Portfolio**](https://prem03.dev) | HTML, CSS, JavaScript | Personal portfolio showcasing projects, technical skills, and software engineering experience. |
