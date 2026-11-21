@@ -80,7 +80,7 @@ $ whoami
 |---------|------------|-------------|
 | 💳 [**PayMesh**](https://github.com/prem0312/PayMesh) | Java, Spring Boot, Redis, PostgreSQL, JPA, AES-GCM, RSA-OAEP | Secure offline payment and settlement platform featuring encrypted payment packets, distributed idempotency, optimistic locking, and replay protection. |
 | 🛒 [**CommerceCore**](https://github.com/prem0312/CommerceCore) | Java, Spring Boot, Microservices, PostgreSQL, Redis, Apache Kafka | Microservices-based e-commerce backend supporting product and inventory management, Redis caching, and Kafka-powered asynchronous notifications. |
-| 🎧 **Vachya AI** | Python, Django, PDF Processing, Text-to-Speech | PDF-to-audiobook backend featuring structured document management, chapter validation, and local-first text-to-speech infrastructure. |
+| 🎧 [**Vachya**](https://github.com/prem0312/Vachya) | Python, Django, PDF Processing, Text-to-Speech | PDF-to-audiobook backend featuring structured document management, chapter validation, and local-first text-to-speech infrastructure. |
 | 🌐 [**Developer Portfolio**](https://prem03.dev) | HTML, CSS, JavaScript | Personal developer portfolio showcasing technical skills, software engineering projects, and development experience. |
 | 📊 [**Superstore-Analytics**](https://github.com/prem0312/Superstore-Analytics) | Python, Pandas, Matplotlib, Seaborn, Scikit-learn | Analyzed 9,994 retail transactions to identify sales trends, evaluate profitability, and predict sales using regression models. |
 | 💬 [**Customer-Sentiment-Analyzer**](https://github.com/prem0312/Customer-Sentiment-Analyzer) | Python, Pandas, NLTK, VADER, NLP | Analyzed 22,641 customer reviews using sentiment classification and NLP to identify customer feedback patterns. |
