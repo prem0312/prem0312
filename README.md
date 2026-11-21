@@ -1,33 +1,33 @@
 
 <p align="center">
   <a href="https://github.com/prem0312">
-    <img src="./assets/github banner.png" alt="Prem Piyush GitHub Profile Banner" width="100%"/>
+    <img src="./assets/github banner.png" alt="Prem Piyush GitHub Profile Banner" width="100%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=850&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Prem;Backend+Developer+%7C+SDE+Enthusiast;Java+%7C+Spring+Boot+%7C+Python;Exploring+System+Design+%26+Microservices;Building+Reliable+Backend+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=850&height=60&lines=Hi+%F0%9F%91%8B%2C+I%27m+Prem;Aspiring+Software+Development+Engineer;Java+%7C+Spring+Boot+%7C+Python;Backend+Development+%26+REST+APIs;Building+Reliable+Software+Systems" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/prem03">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/prem03/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:prempiyush0312@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/prem0312">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://prem03.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=prem0312&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prem0312&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ## 💻 About Me
@@ -37,7 +37,7 @@ $ whoami
 
 > Final-year Information Science and Engineering student at NMIT, Bengaluru
 > Aspiring Software Development Engineer focused on Backend Development
-> Building applications using Java, Spring Boot, Python, and FastAPI
+> Building applications with Java, Spring Boot, Python, and FastAPI
 > Interested in REST APIs, database architecture, and distributed systems
 > Exploring system design, microservices, and backend reliability
 ```
@@ -90,14 +90,6 @@ $ whoami
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🎯 Current Focus
-
-- 🔭 Building backend applications with Java, Spring Boot, Python, and FastAPI
-- 🌱 Strengthening Data Structures & Algorithms, system design, and database architecture
-- ⚙️ Exploring authentication, transaction processing, concurrency, and distributed systems
-- 🐳 Improving containerization, CI/CD, and application deployment workflows
-- 🚀 Preparing for Software Development Engineering and Backend Development opportunities
-
 ## 🚀 Featured Projects
 
 | Project | Tech Stack | Description |
@@ -110,22 +102,30 @@ $ whoami
 | 📊 [**Superstore-Analytics**](https://github.com/prem0312/Superstore-Analytics) | Python, Pandas, Matplotlib, Seaborn, Scikit-learn | Analyzed 9,994 retail transactions to identify sales trends, evaluate profitability, and predict sales using regression models. |
 | 💬 [**Customer-Sentiment-Analyzer**](https://github.com/prem0312/Customer-Sentiment-Analyzer) | Python, Pandas, NLTK, VADER, NLP | Analyzed 22,641 customer reviews using sentiment classification and NLP to identify customer feedback patterns. |
 
+## 🎯 Current Focus
+
+- 🔭 Building backend applications using Java, Spring Boot, Python, and FastAPI
+- 🌱 Strengthening Data Structures & Algorithms, system design, and database architecture
+- ⚙️ Exploring secure authentication, concurrency, transaction processing, and distributed systems
+- 🐳 Improving Docker, CI/CD, and application deployment workflows
+- 🚀 Preparing for Backend Developer and Software Development Engineering opportunities
+
 ## 📊 GitHub
 
 <p align="center">
   <a href="https://github.com/prem0312">
-    <img src="https://img.shields.io/github/followers/prem0312?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/prem0312?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/prem0312?tab=repositories">
-    <img src="https://img.shields.io/github/stars/prem0312?affiliations=OWNER&style=for-the-badge&logo=github" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/prem0312?affiliations=OWNER&style=for-the-badge&logo=github" alt="GitHub Stars" />
   </a>
   <a href="https://github.com/prem0312/CommerceCore">
-    <img src="https://img.shields.io/github/stars/prem0312/CommerceCore?style=for-the-badge&logo=github" alt="CommerceCore Stars"/>
+    <img src="https://img.shields.io/github/stars/prem0312/CommerceCore?style=for-the-badge&logo=github" alt="CommerceCore Stars" />
   </a>
 </p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prem0312/prem0312/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/prem0312/prem0312/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </p>
