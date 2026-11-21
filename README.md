@@ -4,7 +4,9 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=850&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Prem;Engineering+Student;Interested+in+Backend+Development;Exploring+Data+Analytics;Building+Scalable%2C+Data-Driven+Solutions)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=850&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Prem;Engineering+Student;Passionate+about+Backend+Development;Exploring+System+Design+%26+Microservices;Building+Scalable+Backend+Systems)](https://git.io/typing-svg)
+
 
 <p align="center">
   <a href="https://linkedin.com/in/prem03">
@@ -34,9 +36,10 @@
 $ whoami
 
 > Final-year Information Science and Engineering student
-> Interested in Backend Development and Data Analytics
-> Exploring scalable systems, databases, and data-driven solutions
-> Building projects that combine engineering and analytical thinking
+> Passionate about Backend Development and Software Engineering
+> Exploring scalable systems, microservices, and database architecture
+> Building reliable backend applications using Java, Spring Boot, and Python
+
 ```
 
 ## 📊 GitHub
@@ -57,10 +60,10 @@ $ whoami
 ## 🎯 Current Focus
 
 ```text
-- 🔭 Building projects in backend development and data analytics
-- 🌱 Learning system design, database architecture, and analytical problem-solving
-- 💡 Exploring scalable systems, data-driven applications, and business insights
-- 🚀 Aspiring to contribute to backend engineering and data analyst roles
+- 🔭 Building projects in backend development, REST APIs, and distributed systems
+- 🌱 Learning system design, database architecture, and microservices
+- 💡 Exploring scalable backend systems, database optimization, and reliable application architectures
+- 🚀 Aspiring to contribute to backend engineering and software development roles
 
 ```
 ## 🐍 Contribution Snake
@@ -70,11 +73,14 @@ $ whoami
   <img src="https://github.com/prem0312/prem0312/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 ```
+
 ## 🚀 Featured Projects
 
 | Project | Tech Stack | Description |
-|----------|------------|-------------|
-| 📊 [**Superstore Analytics**](https://github.com/prem0312/Superstore-Analytics) | Python, Pandas, Matplotlib, Seaborn, Scikit-learn | Analyzed 9,994 retail transactions to explore sales trends, category-level profitability, and sales forecasting using data visualization and regression models. |
-| 💬 [**Customer Sentiment Analyzer**](https://github.com/prem0312/Customer-Sentiment-Analyzer) | Python, Pandas, NLTK, VADER, NLP | Analyzed 22,641 customer reviews to classify sentiment and visualize feedback themes, helping identify potential opportunities to improve customer satisfaction. |
-| 🛒 [**CommerceCore**](https://github.com/prem0312/CommerceCore) | Java, Spring Boot, Microservices, PostgreSQL, Redis, Kafka, Docker | Built an e-commerce backend with authentication, inventory management, distributed idempotency, transaction consistency, and event-driven workflows. |
-| 🌐 [**Developer Portfolio**](https://prem03.dev) | HTML, CSS, JavaScript | Personal portfolio showcasing projects, technical skills, and software engineering experience. |
+|---------|------------|-------------|
+| 💳 [**PayMesh**](https://github.com/prem0312/PayMesh) | Java, Spring Boot, Redis, PostgreSQL, JPA, AES-GCM, RSA-OAEP | Secure offline payment and settlement platform featuring encrypted payment packets, distributed idempotency, optimistic locking, and replay protection. |
+| 🛒 [**CommerceCore**](https://github.com/prem0312/CommerceCore) | Java, Spring Boot, Microservices, PostgreSQL, Redis, Apache Kafka | Microservices-based e-commerce backend supporting product and inventory management, Redis caching, and Kafka-powered asynchronous notifications. |
+| 🎧 **Vachya AI** | Python, Django, PDF Processing, Text-to-Speech | PDF-to-audiobook backend featuring structured document management, chapter validation, and local-first text-to-speech infrastructure. |
+| 🌐 [**Developer Portfolio**](https://prem03.dev) | HTML, CSS, JavaScript | Personal developer portfolio showcasing technical skills, software engineering projects, and development experience. |
+| 📊 [**Superstore-Analytics**](https://github.com/prem0312/Superstore-Analytics) | Python, Pandas, Matplotlib, Seaborn, Scikit-learn | Analyzed 9,994 retail transactions to identify sales trends, evaluate profitability, and predict sales using regression models. |
+| 💬 [**Customer-Sentiment-Analyzer**](https://github.com/prem0312/Customer-Sentiment-Analyzer) | Python, Pandas, NLTK, VADER, NLP | Analyzed 22,641 customer reviews using sentiment classification and NLP to identify customer feedback patterns. |
